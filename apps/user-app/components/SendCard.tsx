@@ -35,7 +35,7 @@ export function SendCard() {
                   await p2pTransfer(number, Number(amount) * 100);
                 }}
               >
-                Send money
+                Send
               </Button>
             </div>
           </div>
